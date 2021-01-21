@@ -1,0 +1,1 @@
+bert-serving-start -model_dir models -num_worker=4 
