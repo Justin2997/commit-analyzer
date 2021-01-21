@@ -1,1 +1,1 @@
-bert-serving-start -model_dir models -num_worker=4 
+bert-serving-start -model_dir models -num_worker=4 -max_seq_len=50
